@@ -1,0 +1,7 @@
+c:\Dev\ChallengeJollyJumpers.Test\ChallengeJollyJumpers.Test\bin\Debug\ChallengeJollyJumpers.Test.dll
+c:\Dev\ChallengeJollyJumpers.Test\ChallengeJollyJumpers.Test\bin\Debug\ChallengeJollyJumpers.Test.pdb
+c:\Dev\ChallengeJollyJumpers.Test\ChallengeJollyJumpers.Test\bin\Debug\nunit.framework.dll
+c:\Dev\ChallengeJollyJumpers.Test\ChallengeJollyJumpers.Test\bin\Debug\nunit.framework.xml
+c:\Dev\ChallengeJollyJumpers.Test\ChallengeJollyJumpers.Test\obj\Debug\ChallengeJollyJumpers.Test.csprojResolveAssemblyReference.cache
+c:\Dev\ChallengeJollyJumpers.Test\ChallengeJollyJumpers.Test\obj\Debug\ChallengeJollyJumpers.Test.dll
+c:\Dev\ChallengeJollyJumpers.Test\ChallengeJollyJumpers.Test\obj\Debug\ChallengeJollyJumpers.Test.pdb
